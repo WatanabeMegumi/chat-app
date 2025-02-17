@@ -38,9 +38,11 @@
   overflow: scroll;
 }
 
+.room {
+  padding: 20px 0 40px;
+}
 
 .room_name a {
-  padding: 20px 0 40px;
   color: white;
   text-decoration: none;
 }
